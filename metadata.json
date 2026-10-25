@@ -1,6 +1,7 @@
 {
   "name": "Windows Style Magnifier",
   "description": "Oddokowane okno lupy z paskiem do przesuwania, zmianą rozmiaru, zapamiętywaniem ustawień i widocznym kursem, stylizowane na Windowsa.",
+  "version": "1.0.0",
   "uuid": "win-magnifier@local",
   "shell-version": ["46"]
 }
